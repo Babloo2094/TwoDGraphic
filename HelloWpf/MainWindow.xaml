@@ -1,0 +1,18 @@
+﻿<Window x:Class="HelloWpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HelloWpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="707*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="Say Hello" HorizontalAlignment="Left" Height="27" Margin="165,161,0,0" Name="btnHello" VerticalAlignment="Top" Width="142" FontStretch="Normal" Click="btnHello_Click" ToolTip="Hello Button" Grid.Column="1"/>
+        <TextBox  HorizontalAlignment="Left" Margin="187,44,0,0" Name="txtName"  VerticalAlignment="Top" Width="120" Height="22" SnapsToDevicePixels="True" ToolTip="Enter Name Here" Grid.Column="1"/>
+
+    </Grid>
+</Window>

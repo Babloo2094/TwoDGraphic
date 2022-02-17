@@ -1,0 +1,16 @@
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\bin\Debug\ItemTemplateExample.exe.config
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\bin\Debug\ItemTemplateExample.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\bin\Debug\ItemTemplateExample.pdb
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.csproj.AssemblyReference.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\MainWindow.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\App.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample_MarkupCompile.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample_MarkupCompile.lref
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\MainWindow.baml
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.g.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.Properties.Resources.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.csproj.GenerateResource.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.csproj.CoreCompileInputs.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\ItemTemplateExample\obj\Debug\ItemTemplateExample.pdb

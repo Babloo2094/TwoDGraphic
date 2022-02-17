@@ -1,0 +1,16 @@
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\bin\Debug\TwoDGraphics.exe.config
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\bin\Debug\TwoDGraphics.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\bin\Debug\TwoDGraphics.pdb
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.csproj.AssemblyReference.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.csproj.SuggestedBindingRedirects.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\MainWindow.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\App.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics_MarkupCompile.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics_MarkupCompile.lref
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\MainWindow.baml
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.g.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.Properties.Resources.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.csproj.GenerateResource.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.csproj.CoreCompileInputs.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\TwoDGraphics\obj\Debug\TwoDGraphics.pdb

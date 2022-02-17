@@ -1,0 +1,16 @@
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\bin\Debug\SimpleBinding.exe.config
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\bin\Debug\SimpleBinding.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\bin\Debug\SimpleBinding.pdb
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.csproj.AssemblyReference.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\MainWindow.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\App.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding_MarkupCompile.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding_MarkupCompile.lref
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\MainWindow.baml
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.g.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.Properties.Resources.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.csproj.GenerateResource.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.csproj.CoreCompileInputs.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\SimpleBinding\obj\Debug\SimpleBinding.pdb

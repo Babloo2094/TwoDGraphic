@@ -1,0 +1,16 @@
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\bin\Debug\CollectionBinding.exe.config
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\bin\Debug\CollectionBinding.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\bin\Debug\CollectionBinding.pdb
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.csproj.AssemblyReference.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.csproj.SuggestedBindingRedirects.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\MainWindow.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\App.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding_MarkupCompile.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding_MarkupCompile.lref
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\MainWindow.baml
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.g.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.Properties.Resources.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.csproj.GenerateResource.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.csproj.CoreCompileInputs.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\CollectionBinding\obj\Debug\CollectionBinding.pdb

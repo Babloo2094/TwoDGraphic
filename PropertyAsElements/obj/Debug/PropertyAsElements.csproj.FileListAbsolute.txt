@@ -1,0 +1,16 @@
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.csproj.AssemblyReference.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\MainWindow.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\App.g.cs
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements_MarkupCompile.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements_MarkupCompile.lref
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\bin\Debug\PropertyAsElements.exe.config
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\bin\Debug\PropertyAsElements.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\bin\Debug\PropertyAsElements.pdb
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\MainWindow.baml
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.g.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.Properties.Resources.resources
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.csproj.GenerateResource.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.csproj.CoreCompileInputs.cache
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.exe
+C:\Users\babloo\OneDrive\Desktop\tranning\Cshrapltts\Wpf\PropertyAsElements\obj\Debug\PropertyAsElements.pdb
